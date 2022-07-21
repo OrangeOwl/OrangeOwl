@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Javascript, python, and eventually I'll learn some Rust ;)
 - 💞️ I’m looking to collaborate on Web Apps, or really any cool looking project
 - 📫 How to reach me: hibou.devel@gmail.com
-
+- ✍️ Check out my blog here: https://hibou-dev.github.io/Blog/index.html
