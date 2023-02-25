@@ -2,4 +2,4 @@
 - 👀 I’m interested in Linux, Web Development, Open Source software and Cats!
 - 🌱 I’m currently learning Javascript, python, and maybe one day I'll learn some Rust ;)
 - 💞️ I’m looking to collaborate on really any cool looking project
-- 📫 How to reach me: philipsoftwaredev@gmail.com
+- 📫 How to reach me: orangeowltech@gmail.com
